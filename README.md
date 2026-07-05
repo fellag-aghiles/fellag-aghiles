@@ -40,9 +40,9 @@ I am looking for an **alternance starting September 2026** in **Data, Artificial
 
 <div align="center">
 
-| 🎓 School | 📅 Start | 🔁 Rhythm | 📍 Location |
-|----------|----------|-----------|-------------|
-| Master IA & Big Data — ESGI | September 2026 | 3 weeks company / 1 week school | Lille · Île-de-France · Remote / Hybrid |
+| 🎓 School | 📅 Start | 🔁 Rhythm | 
+|----------|----------|-----------|
+| Master IA & Big Data — ESGI | September 2026 | 3 weeks company / 1 week school |
 
 </div>
 
