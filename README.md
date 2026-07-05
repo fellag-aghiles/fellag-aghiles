@@ -29,7 +29,7 @@ I am looking for an **alternance starting September 2026** in:
 - MLOps
 
 **Rhythm:** 3 weeks in company / 1 week at school  
-**Location:** Lille, Île-de-France, or remote/hybrid opportunities
+**Location:** France
 
 ---
 
