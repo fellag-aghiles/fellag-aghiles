@@ -104,17 +104,17 @@ Hi, I'm **Aghiles Fellag**.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fellag-aghiles&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellag-aghiles&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E9D5FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fellag-aghiles&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=E9D5FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellag-aghiles&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=E9D5FF" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fellag-aghiles&theme=midnight-purple&hide_border=true&background=00000000&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF&sideLabels=E9D5FF&dates=C4B5FD" />
+<img src="https://streak-stats.demolab.com?user=fellag-aghiles&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=A78BFA&amp;ring=8B5CF6&amp;fire=A78BFA&amp;currStreakLabel=E9D5FF&amp;sideLabels=E9D5FF&amp;dates=C4B5FD" />
 
 </div>
-
 ---
 
 ## 🏆 Achievements
