@@ -37,8 +37,8 @@ Hi, I'm **Aghiles Fellag**.
 <a href="https://fellag-aghiles.github.io">
   <img src="https://img.shields.io/badge/Portfolio-fellag--aghiles.github.io-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:aghilasfellag2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-aghilasfellag2004%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:aghiles.proj@gmail.com">
+  <img src="https://img.shields.io/badge/Email-aghiles.proj%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
