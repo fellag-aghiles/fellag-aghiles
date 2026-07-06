@@ -21,7 +21,7 @@ Hi, I'm **Aghiles Fellag**.
 🎓 Computer Science student at **Université de Lille**  
 🎓 Admitted to **Master IA & Big Data at ESGI** starting **September 2026**  
 🔎 Looking for an **apprenticeship of 12/24 months** in **Data / AI / Big Data / MLOps**  
-📍 Open to opportunities in **Lille** and **Île-de-France**  
+📍 Open to opportunities in **France**  
 ⚡ Interested in **Machine Learning, Data Analysis, Big Data, AI, and Backend Development**
 
 <br>
